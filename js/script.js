@@ -16,5 +16,5 @@ function calculateAreaOfTriangle() {
   const areaOfTriangle = (baseOfTriangle * heightOfTriangle) * 0.5
 
   // output
-  document.getElementById('area').innerHTML = 'Area is: ' + areaOfTriangle + ' cm²'
+  document.getElementById("area").innerHTML = 'Area is: ' + areaOfTriangle + ' cm²'
 }
